@@ -1,0 +1,9 @@
+Part 1: Cypress Introduction | Web Automation using Cypress
+Part 2: Cypress Environment Setup On Windows | How To Install Cypress on Windows
+Part 3: Cypress Environment Setup On Mac | How To Install Cypress on Mac
+Part 4: Test Runner Component in Cypress | How to Work with Test Runner
+Part 5: Writing First Test Case in Cypress
+Part 6: How To Run Cypress Tests in Test Runner & Terminal | Command Line
+Part 7: Cypress Project Folder Structure | Visual Studio Code Editor
+Part 8: Locators in Cypress
+Part 9: Locators in Cypress - Demo
